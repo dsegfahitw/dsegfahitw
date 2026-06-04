@@ -1,5 +1,5 @@
 # Hi, I'm Daniil Kuznietsov 👋
-### Junior IT Support Specialist based in Kosice, Slovakia 🇸🇰
+### Full-stack Developer & Automation Engineer based in Kosice, Slovakia 🇸🇰
 
 I love fixing things, breaking down complex technical issues for people, and finding smart ways to automate repetitive tasks. Right now, I’m focused on Windows administration, help desk support, and building a strong foundation in infrastructure operations.
 
